@@ -1,1 +1,4 @@
 welcome Data Engineering!
+To master in Data Engineering do must have following skill :
+ 1.Python
+ 2.pyspark
